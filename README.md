@@ -1,3 +1,5 @@
+Take me to the Course Already! [Notes/Contents.md](Notes/Contents.md)!
+
 # Welcome!
 
 When David first learned Python nearly 25 years ago, David was immediately
